@@ -5,4 +5,4 @@ This is the final project of the linear algebra course (Universidad Panamericana
 ## Authors:
 Burno Campos Uribe  
 Álvaro Paulo Creus Parrilla  
-Rafael Patiño Goji
+Rafael Patiño Goji  
